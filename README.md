@@ -1,6 +1,6 @@
 # anime_search
 
-A Flutter project where you can search anime's with a combination of genres.
+A Flutter project where you can search anime's with a combination of genres. We have used api from jikan.
 
 ## Project Snaps
 
