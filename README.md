@@ -6,7 +6,7 @@ A Flutter project where you can search anime's with a combination of genres.
 
 ![](screenshot1.png)
 
-Home page where you can select your genres
+> Home page where you can select your genres
 
 
 ![](screenshot2.png)![]
