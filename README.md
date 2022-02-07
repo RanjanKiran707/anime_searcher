@@ -2,7 +2,7 @@
 
 A Flutter project where you can search anime's with a combination of genres.
 
-## Getting Started
+## Project Snaps
 
 ![](screenshot1.png)
 
